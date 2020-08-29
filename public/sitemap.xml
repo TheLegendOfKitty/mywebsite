@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.hypixelstatsbot.com/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.hypixelstatsbot.com/series/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.hypixelstatsbot.com/updates/update-0.1/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.hypixelstatsbot.com/updates/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.hypixelstatsbot.com/series/updates/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.hypixelstatsbot.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.hypixelstatsbot.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.hypixelstatsbot.com/snippets/first/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.hypixelstatsbot.com/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.hypixelstatsbot.com/snippets/second/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.hypixelstatsbot.com/snippets/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.hypixelstatsbot.com/tags/</loc>
+  </url>
+  
+</urlset>

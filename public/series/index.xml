@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Hypixel Stats Bot</title>
+    <link>http://www.hypixelstatsbot.com/series/</link>
+    <description>Recent content in Series on Hypixel Stats Bot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.hypixelstatsbot.com/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>updates</title>
+      <link>http://www.hypixelstatsbot.com/series/updates/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.hypixelstatsbot.com/series/updates/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
